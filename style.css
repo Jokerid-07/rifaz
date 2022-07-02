@@ -1,0 +1,41 @@
+.nav-link {
+    color: #ffffff !important;
+    margin-right: 20px;
+}
+.btn {
+    background-color: orangered !important;
+    color: #ffffff !important;
+}
+.bg {
+    margin-top: 75px;
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+}
+.red {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.col-6 {
+    padding: 7px;
+}
+.font {
+    text-align: left;
+    font-size: 16px;
+}
+.font-name {
+    text-align: left;
+    font-size: 12px;
+}
+.font-orange {
+    color: orangered;
+}
+.font-head {
+    color: white;
+}
